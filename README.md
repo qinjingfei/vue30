@@ -2,6 +2,7 @@
 
 ## 目录
 
-| NO   | Guide                                 | Demo     |
-| ---- | ------------------------------------- | -------- |
-| 1    | [起步](./notes/00_getting_started.md) | [起步]() |
+| NO   | Guide                                 | Demo                                                         |
+| ---- | ------------------------------------- | ------------------------------------------------------------ |
+| 00   | [起步](./notes/00_getting_started.md) | [起步demo](https://qinjingfei.github.io/vue30/00_getting_started/index.html) |
+
